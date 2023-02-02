@@ -4,7 +4,7 @@ geth는 path 걸어놨음으로 그냥 cmd 창에서 아래 명령을 넣으면 
 
 geth --http --http.addr "0.0.0.0" --http.port 8549 --datadir="E:\Ethereum\data" --authrpc.jwtsecret E:\Ethereum\consensus\prysm\jwt.hex console
 
-## Beacon Chaint 실행: 
+## Beacon Chain 실행: 
 
 prysm.bat 있는 디렉토리에서 실행하면 됩니다. 새 하드 설치하면 경로 바꾸서 다시 올리겠습니다. 
 
