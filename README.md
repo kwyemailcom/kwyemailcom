@@ -1,4 +1,4 @@
-- 👋 Hi, I’m main 1
+- 👋 Hi, I’m main 2
 - 👀 I’m working now for crypto currency
 
 
