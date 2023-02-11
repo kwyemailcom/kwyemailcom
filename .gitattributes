@@ -1,6 +1,1 @@
-ToDoList.txt export-ignore
-README.md export-ignore
-config.php export-ignore
-.gitattributes export-ignore
-.gitignore export-ignore
-.cache/ export-ignore
+ToDoList.txt merge=ours
