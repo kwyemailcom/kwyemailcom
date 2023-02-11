@@ -1,8 +1,6 @@
-path/file_to_ignore merge=ours 
-
-ToDoList.txt merge=ours
-README.md merge=ours
-config.php merge=ours
-.gitattributes merge=ours
-.gitignore merge=ours
-.cache/ merge=ours
+ToDoList.txt export-ignore
+README.md export-ignore
+config.php export-ignore
+.gitattributes export-ignore
+.gitignore export-ignore
+.cache/ export-ignore
