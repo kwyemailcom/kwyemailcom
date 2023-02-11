@@ -1,3 +1,3 @@
 To-Do List
 
-uselessdog 4 - WSL 설정 마무리
+main - WSL 설정 마무리
