@@ -1,0 +1,6 @@
+ToDoList.txt merge=ours
+README.md merge=ours
+config.php merge=ours
+.gitattributes merge=ours
+.gitignore merge=ours
+.cache/ merge=ours
