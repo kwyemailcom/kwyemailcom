@@ -1,4 +1,4 @@
-- 👋 Hi, I’m uselessdog
+- 👋 Hi, I’m main
 - 👀 I’m working now for crypto currency
 
 
